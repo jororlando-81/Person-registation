@@ -5,3 +5,7 @@
 ## Post
 
 ![Post](https://github.com/jororlando-81/assets/blob/main/post.png)
+
+## Class diagram
+
+![Post](https://github.com/jororlando-81/assets/blob/main/Classes%20diagram.drawio.png)
